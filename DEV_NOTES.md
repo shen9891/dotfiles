@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Tested build on clean environment
+
+## 2026-04-29
+- Reorganised test fixtures
+- Updated license year
